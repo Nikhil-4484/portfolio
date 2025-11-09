@@ -11,7 +11,7 @@
         "I am a passionate React Native Developer, specializing in building mobile applications for Android and iOS. My focus is on delivering scalable, efficient, and user-friendly mobile solutions powered by Firebase for authentication, real-time databases, and cloud storage. React Native is not just my skill—it's my passion, and I continuously strive to grow in this field to deliver high-quality mobile experiences.",
         "In addition to mobile app development, I also have experience with React.js for web applications and an interest in UI/UX design, ensuring intuitive and engaging digital interfaces. I am skilled in JavaScript for creating dynamic user experiences and proficient in Firebase integration. While React.js and UI/UX are areas of interest, my primary passion and expertise remain in React Native mobile development."
       ],
-      "profileURL": "https://avatar.iran.liara.run/public/13",
+      "profileURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/profileUrl/IMG_0200.jpg",
       "skillLabel": "Technical Skills",
       "AnimationDots": 35,
       "skillDescription": "With a strong foundation in modern web and mobile technologies, I specialize in creating seamless cross-platform experiences. My expertise in React Native and Firebase enables me to build scalable, real-time applications that deliver exceptional user experiences across iOS and Android platforms.",
@@ -71,3 +71,4 @@
     }
   ]
 }
+
