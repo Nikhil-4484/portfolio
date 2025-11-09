@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "React Native Developer",
+      "name": "Nikhil Kumar",
+      "label": "Hello World",
+      "FooterParagraph": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms below or send me a message.",
+
+      "description": [
+        "I am a passionate React Native Developer, specializing in building mobile applications for Android and iOS. My focus is on delivering scalable, efficient, and user-friendly mobile solutions powered by Firebase for authentication, real-time databases, and cloud storage. React Native is not just my skill—it's my passion, and I continuously strive to grow in this field to deliver high-quality mobile experiences.",
+        "In addition to mobile app development, I also have experience with React.js for web applications and an interest in UI/UX design, ensuring intuitive and engaging digital interfaces. I am skilled in JavaScript for creating dynamic user experiences and proficient in Firebase integration. While React.js and UI/UX are areas of interest, my primary passion and expertise remain in React Native mobile development."
+      ],
+      "profileURL": "https://avatar.iran.liara.run/public/13",
+      "skillLabel": "Technical Skills",
+      "AnimationDots": 35,
+      "skillDescription": "With a strong foundation in modern web and mobile technologies, I specialize in creating seamless cross-platform experiences. My expertise in React Native and Firebase enables me to build scalable, real-time applications that deliver exceptional user experiences across iOS and Android platforms.",
+      "skills": [
+        { "name": "React Native", "icon": "Smartphone", "color": "#61DAFB" },
+        { "name": "React.js", "icon": "Layout", "color": "#61DAFB" },
+        { "name": "Firebase", "icon": "Flame", "color": "#FFCA28" },
+        { "name": "JavaScript", "icon": "Code2", "color": "#F7DF1E" },
+        { "name": "TypeScript", "icon": "Code", "color": "#8f0085" },
+        { "name": "Java", "icon": "Coffee", "color": "#007396" },
+        { "name": "HTML", "icon": "FileCode", "color": "#E34F26" },
+        { "name": "CSS", "icon": "Palette", "color": "#1572B6" },
+        { "name": "C++", "icon": "Terminal", "color": "#00599C" },
+        { "name": "UI/UX", "icon": "Paintbrush", "color": "#FF6B6B" },
+        { "name": "UI/UX", "icon": "Paintbrush", "color": "#FF6B6B" }
+      ],
+      "projects": [
+        {
+          "id": 10,
+          "projectIconURL": "mutooIcon",
+          "project_Name": "Mutoo - Smart Ride Sharing for Divers",
+          "my_Role": " Frontend + Firebase backend",
+          "description": [
+            "Mutoo is a modern ride-sharing app for car drivers, enabling secure registration with name, phone number, car license, and face verification. Drivers can create rides for present or future trips, while users apply filters to find nearby rides efficiently. An integrated chat system supports smooth driver-passenger communication. ",
+            " The backend uses Firebase Firestore for real-time data, Firebase Messaging for instant notifications, and Firebase Storage for secure file handling, delivering a scalable and reliable platform."
+          ],
+          "skills": [
+            "React Native",
+            "JavaScript",
+            "Firebase",
+            "Firebase Cloud Firestore",
+            "Cloud Functions"
+          ],
+          "proPhotoURL": "https://avatar.iran.liara.run/public/mutoo1",
+          "projectLink": ""
+        },
+        {
+          "id": 10,
+          "projectIconURL": "mutooIcon",
+          "project_Name": "Mutoo - Smart Ride Sharing for Divers",
+          "my_Role": " Frontend + Firebase backend",
+          "description": [
+            "Mutoo is a modern ride-sharing app for car drivers, enabling secure registration with name, phone number, car license, and face verification. Drivers can create rides for present or future trips, while users apply filters to find nearby rides efficiently. An integrated chat system supports smooth driver-passenger communication. ",
+            " The backend uses Firebase Firestore for real-time data, Firebase Messaging for instant notifications, and Firebase Storage for secure file handling, delivering a scalable and reliable platform."
+          ],
+          "skills": [
+            "React Native",
+            "JavaScript",
+            "Firebase",
+            "Firebase Cloud Firestore",
+            "Cloud Functions"
+          ],
+          "proPhotoURL": "https://avatar.iran.liara.run/public/mutoo1",
+          "projectLink": ""
+        }
+      ]
+    }
+  ]
+}
