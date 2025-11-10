@@ -31,7 +31,7 @@
       "projects": [
         {
           "id": 10,
-          "projectIconURL": "mutooIcon",
+          "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/mutoo/mutoo_icon.png",
           "project_Name": "Mutoo - Smart Ride Sharing for Divers",
           "my_Role": " Frontend + Firebase backend",
           "description": [
@@ -45,8 +45,8 @@
             "Firebase Cloud Firestore",
             "Cloud Functions"
           ],
-          "proPhotoURL": "https://avatar.iran.liara.run/public/mutoo1",
-          "projectLink": ""
+          "proPhotoURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/mutoo/Screenshot%202025-11-10%20200026.png",
+          "link": "https://mutoo.app/"
         },
         {
           "id": 10,
@@ -71,4 +71,5 @@
     }
   ]
 }
+
 
