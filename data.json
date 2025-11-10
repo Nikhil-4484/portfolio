@@ -23,8 +23,6 @@
           { "name": "GoogleCloud", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/GoogleCloud.png"  },
           { "name": "Redux", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Redux.png"  },
           { "name": "TailwindCSS", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/TailwindCSS.png"  },
-      ]
-      
       ],
       "projects": [
         {
@@ -70,6 +68,7 @@
     }
   ]
 }
+
 
 
 
