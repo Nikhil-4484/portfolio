@@ -6,7 +6,6 @@
       "name": "Nikhil Kumar",
       "label": "Hello World",
       "FooterParagraph": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out through any of the platforms below or send me a message.",
-
       "description": [
         "I am a passionate React Native Developer, specializing in building mobile applications for Android and iOS. My focus is on delivering scalable, efficient, and user-friendly mobile solutions powered by Firebase for authentication, real-time databases, and cloud storage. React Native is not just my skill—it's my passion, and I continuously strive to grow in this field to deliver high-quality mobile experiences.",
         "In addition to mobile app development, I also have experience with React.js for web applications and an interest in UI/UX design, ensuring intuitive and engaging digital interfaces. I am skilled in JavaScript for creating dynamic user experiences and proficient in Firebase integration. While React.js and UI/UX are areas of interest, my primary passion and expertise remain in React Native mobile development."
@@ -16,23 +15,23 @@
       "AnimationDots": 35,
       "skillDescription": "With a strong foundation in modern web and mobile technologies, I specialize in creating seamless cross-platform experiences. My expertise in React Native and Firebase enables me to build scalable, real-time applications that deliver exceptional user experiences across iOS and Android platforms.",
       "skills": [
-        { "name": "Android", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Android.png"  },
-         { "name": "Apple", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Apple.png"  },
-          { "name": "Firebase", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Firebase.png"  },
-          { "name": "Git", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Git.png"  },
-          { "name": "GoogleCloud", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/GoogleCloud.png"  },
-          { "name": "Redux", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Redux.png"  },
-          { "name": "TailwindCSS", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/TailwindCSS.png"  },
+        { "name": "Android", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Android.png" },
+        { "name": "Apple", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Apple.png" },
+        { "name": "Firebase", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Firebase.png" },
+        { "name": "Git", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Git.png" },
+        { "name": "GoogleCloud", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/GoogleCloud.png" },
+        { "name": "Redux", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Redux.png" },
+        { "name": "TailwindCSS", "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/TailwindCSS.png" }
       ],
       "projects": [
         {
           "id": 10,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/mutoo/mutoo_icon.png",
-          "project_Name": "Mutoo - Smart Ride Sharing for Divers",
-          "role": " Frontend + Firebase backend",
+          "project_Name": "Mutoo - Smart Ride Sharing for Drivers",
+          "role": "Frontend + Firebase backend",
           "description": [
-            "Mutoo is a modern ride-sharing app for car drivers, enabling secure registration with name, phone number, car license, and face verification. Drivers can create rides for present or future trips, while users apply filters to find nearby rides efficiently. An integrated chat system supports smooth driver-passenger communication. ",
-            " The backend uses Firebase Firestore for real-time data, Firebase Messaging for instant notifications, and Firebase Storage for secure file handling, delivering a scalable and reliable platform."
+            "Mutoo is a modern ride-sharing app for car drivers, enabling secure registration with name, phone number, car license, and face verification. Drivers can create rides for present or future trips, while users apply filters to find nearby rides efficiently. An integrated chat system supports smooth driver-passenger communication.",
+            "The backend uses Firebase Firestore for real-time data, Firebase Messaging for instant notifications, and Firebase Storage for secure file handling, delivering a scalable and reliable platform."
           ],
           "skills": [
             "React Native",
@@ -44,15 +43,14 @@
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/mutoo/Screenshot%202025-11-10%20200026.png",
           "link": "https://mutoo.app/"
         },
-
         {
           "id": 11,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/mutoo/mutoo_icon.png",
-          "project_Name": "Mutoo - Smart Ride Sharing for Divers",
-          "role": " Frontend + Firebase backend",
+          "project_Name": "Mutoo - Smart Ride Sharing for Drivers",
+          "role": "Frontend + Firebase backend",
           "description": [
-            "Mutoo is a modern ride-sharing app for car drivers, enabling secure registration with name, phone number, car license, and face verification. Drivers can create rides for present or future trips, while users apply filters to find nearby rides efficiently. An integrated chat system supports smooth driver-passenger communication. ",
-            " The backend uses Firebase Firestore for real-time data, Firebase Messaging for instant notifications, and Firebase Storage for secure file handling, delivering a scalable and reliable platform."
+            "Mutoo is a modern ride-sharing app for car drivers, enabling secure registration with name, phone number, car license, and face verification. Drivers can create rides for present or future trips, while users apply filters to find nearby rides efficiently. An integrated chat system supports smooth driver-passenger communication.",
+            "The backend uses Firebase Firestore for real-time data, Firebase Messaging for instant notifications, and Firebase Storage for secure file handling, delivering a scalable and reliable platform."
           ],
           "skills": [
             "React Native",
@@ -63,14 +61,8 @@
           ],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/mutoo/Screenshot%202025-11-10%20200026.png",
           "link": "https://mutoo.app/"
-        },
+        }
       ]
     }
   ]
 }
-
-
-
-
-
-
