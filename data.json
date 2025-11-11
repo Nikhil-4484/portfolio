@@ -81,26 +81,29 @@
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/BossetteHair/BossetteHair.png",
           "link": "https://bossettehair.com/"
         }, 
-         {
+          {
           "id": 12,
-          "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/BossetteHair/IMG_0128.AVIF",
-          "project_Name": "BossetteHair – Hair & Beauty E-commerce App",
-          "role": "React Native Developer",
+          "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/thecraftiq/craftlogo.png",
+          "project_Name": "CRAFTIQ",
+          "role": "Mobile App and web Developer",
           "description": [
-            "Worked on a hair and beauty product selling app called BossetteHair, focused on premium hair extensions, wigs (\"hair dummy\"), and hair care products under the tagline \"Hair Store for Boss Women.\"",
-            "I contributed by developing new UI screens to showcase additional product categories, improving the user navigation and shopping experience. My work helped enhance the app’s visual appeal and expanded product visibility for better conversions."
+            "Debugged major issues causing crashes and build failures. Solved critical error preventing APK generation, enabling successful app deployment. Ensured full functionality on both iOS and Android platforms. Collaborated with the team to maintain cross-platform compatibility and app performance.",
+          "Web: Developed an interactive popup feature in the myCraft screen for sharing recipes via email. Implemented a multi-step flow allowing users to add one or more Recipes, select multiple Recipients, and customize the Subject and Body before sending. Ensured seamless user experience with dynamic validation, responsive design, and smooth data handling between frontend and backend. Enhanced user engagement by simplifying the recipe-sharing process with clear, guided steps."
           ],
           "skills": [
+            "Debugging & Troubleshooting",
             "Cross-Platform Development",
             "Build and Deployment",
-            "JavaScript"
+            "JavaScript", 
+            "React.js"
           ],
-          "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/BossetteHair/BossetteHair.png",
-          "link": "https://bossettehair.com/"
+          "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/thecraftiq/thecraftiq-photo.png",
+          "link": "https://thecraftiq.com/"
         }
       ]
     }
   ]
 }
+
 
 
