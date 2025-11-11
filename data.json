@@ -59,7 +59,7 @@
           ],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/BossetteHair/BossetteHair.png",
           "link": "https://bossettehair.com/"
-        }
+        },
         {
           "id": 12,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/thecraftiq/craftlogo.png",
@@ -82,6 +82,7 @@
     }
   ]
 }
+
 
 
 
