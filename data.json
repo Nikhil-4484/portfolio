@@ -24,6 +24,10 @@
           "name": "Apple",
           "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Apple.png"
         },
+         {
+          "name": "TypeScript",
+          "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/TypeScript.png"
+        },
         {
           "name": "Firebase",
           "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Firebase.png"
@@ -114,3 +118,4 @@
     }
   ]
 }
+
