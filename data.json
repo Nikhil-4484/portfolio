@@ -14,6 +14,7 @@
       "skillLabel": "Technical Skills",
       "AnimationDots": 35,
       "skillDescription": "With a strong foundation in modern web and mobile technologies, I specialize in creating seamless cross-platform experiences. My expertise in React Native and Firebase enables me to build scalable, real-time applications that deliver exceptional user experiences across iOS and Android platforms.",
+
       "skills": [
         {
           "name": "Android",
@@ -42,6 +43,15 @@
         {
           "name": "TailwindCSS",
           "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/TailwindCSS.png"
+        }
+      ],
+      "careerPathway": [
+        {
+          "type": "experience",
+          "title": "React Native Developer",
+          "organization": "Sprinzo Developers",
+          "period": "Current Position",
+          "description": "Currently building scalable mobile and web applications with a strong focus on performance, design, and user experience. Leading the development of new features across React Native (mobile) and React.js (web) platforms, integrating Firebase for real-time data and authentication. Additionally, working on AI-powered functionalities to enhance automation and user engagement, while mentoring junior developers in React and React Native best practices."
         }
       ],
       "projects": [
@@ -80,21 +90,21 @@
           ],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/BossetteHair/BossetteHair.png",
           "link": "https://bossettehair.com/"
-        }, 
-          {
+        },
+        {
           "id": 12,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/thecraftiq/craftlogo.png",
           "project_Name": "CRAFTIQ",
           "role": "Mobile App and web Developer",
           "description": [
             "Debugged major issues causing crashes and build failures. Solved critical error preventing APK generation, enabling successful app deployment. Ensured full functionality on both iOS and Android platforms. Collaborated with the team to maintain cross-platform compatibility and app performance.",
-          "Web: Developed an interactive popup feature in the myCraft screen for sharing recipes via email. Implemented a multi-step flow allowing users to add one or more Recipes, select multiple Recipients, and customize the Subject and Body before sending. Ensured seamless user experience with dynamic validation, responsive design, and smooth data handling between frontend and backend. Enhanced user engagement by simplifying the recipe-sharing process with clear, guided steps."
+            "Web: Developed an interactive popup feature in the myCraft screen for sharing recipes via email. Implemented a multi-step flow allowing users to add one or more Recipes, select multiple Recipients, and customize the Subject and Body before sending. Ensured seamless user experience with dynamic validation, responsive design, and smooth data handling between frontend and backend. Enhanced user engagement by simplifying the recipe-sharing process with clear, guided steps."
           ],
           "skills": [
             "Debugging & Troubleshooting",
             "Cross-Platform Development",
             "Build and Deployment",
-            "JavaScript", 
+            "JavaScript",
             "React.js"
           ],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/thecraftiq/thecraftiq-photo.png",
@@ -104,6 +114,3 @@
     }
   ]
 }
-
-
-
