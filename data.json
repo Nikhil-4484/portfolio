@@ -24,7 +24,7 @@
           "name": "Apple",
           "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/Apple.png"
         },
-         {
+        {
           "name": "TypeScript",
           "iconUrl": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/techIcons/TypeScript.png"
         },
@@ -113,9 +113,32 @@
           ],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/thecraftiq/thecraftiq-photo.png",
           "link": "https://thecraftiq.com/"
+        },
+        {
+          "id": 13,
+          "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/appicon.png",
+          "project_Name": "DoNotSign",
+          "role": "Frontend, Backend & Cloud",
+          "description": [
+            "DoNotSign is an AI-powered contract review mobile application designed to help users make informed decisions before signing legal documents. Users can upload or scan contracts in multiple formats (PDF, images, documents), and the app uses AI to analyze the content, detect potential risks, highlight unfavorable clauses, and summarize key terms in plain language.",
+            "The application provides risk scoring with color-coded indicators, actionable recommendations such as Sign, Negotiate, or Do Not Sign, and maintains a secure contract history for future reference. Privacy and data security are prioritized through encrypted document storage and secure processing.",
+            "This project demonstrates end-to-end mobile application development, UI/UX design, native integrations, performance optimization, and AI-driven workflows."
+          ],
+          "skills": [
+            "React Native",
+            "TypeScript",
+            "Animations (Lottie, Reanimated)",
+            "Firebase",
+            "Firestore",
+            "Cloud Functions",
+            "AI Integration",
+            "Gemini AI (Gamani AI)",
+            "iOS & Android Build Management"
+          ],
+          "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/donotsign.jpg",
+          "link": null
         }
       ]
     }
   ]
 }
-
