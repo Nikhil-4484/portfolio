@@ -61,6 +61,25 @@
       "projects": [
         {
           "id": 10,
+          "projectIconURL": null,
+          "project_Name": "PG Management System (Admin · Manager · Guest Apps)",
+          "role": "Frontend + Firebase backend",
+          "description": [
+            "A role-based PG (Paying Guest) Management System built with React Native + Firebase, designed to efficiently manage buildings, rooms, managers, guests, and complaints across multiple properties with real-time synchronization and push notifications.",
+            "The system consists of three separate mobile applications: Admin App – Full control & management, Manager App – Building & guest operations and Guest App – Stay management & complaint submission"
+          ],
+          "skills": [
+            "React Native",
+            "JavaScript",
+            "Firebase",
+            "Firebase Cloud Firestore",
+            "Cloud Functions"
+          ],
+          "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/pg/pg.jpg",
+          "link": null
+        },
+        {
+          "id": 11,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/mutoo/mutoo_icon.png",
           "project_Name": "Mutoo - Smart Ride Sharing for Drivers",
           "role": "Frontend + Firebase backend",
@@ -79,7 +98,7 @@
           "link": "https://mutoo.app/"
         },
         {
-          "id": 11,
+          "id": 12,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/BossetteHair/IMG_0128.AVIF",
           "project_Name": "BossetteHair – Hair & Beauty E-commerce App",
           "role": "React Native Developer",
@@ -96,7 +115,7 @@
           "link": "https://bossettehair.com/"
         },
         {
-          "id": 12,
+          "id": 13,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/main/assets/thecraftiq/craftlogo.png",
           "project_Name": "CRAFTIQ",
           "role": "Mobile App and web Developer",
@@ -115,7 +134,7 @@
           "link": "https://thecraftiq.com/"
         },
         {
-          "id": 13,
+          "id": 14,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/appicon.png",
           "project_Name": "DoNotSign",
           "role": "Frontend, Backend & Cloud",
@@ -142,5 +161,3 @@
     }
   ]
 }
-
-
