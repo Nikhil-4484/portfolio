@@ -157,7 +157,7 @@
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/donotsign.jpg",
           "link": null
         },
-         {
+        {
           "id": 15,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/appicon.png",
           "project_Name": "DoNotSign – AI-Powered Contract Review Web Platform",
@@ -179,10 +179,22 @@
           ],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/donotsign_web.PNG",
           "link": "https://donotsign.com/"
+        },
+        {
+          "id": 16,
+          "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/cleancam/1024.png",
+          "project_Name": "CleanCam – Smart Gallery & Media Management App",
+          "role": "Frontend (React Native)",
+          "description": [
+            "CleanCam is a cross-platform mobile application built with React Native, redesigned and upgraded from a previously developed native iOS (Swift-based) version into a scalable solution for both iOS and Android.",
+            "The app focuses on intelligent media organization and AI-powered image enhancement, giving users full control over their device gallery in a clean and user-friendly interface.",
+            "Access and display mobile storage images & videos, Create custom folders inside the app, Organize media based on folder names, Manage and view deleted items in a dedicated trash folder and Dynamic app icon switching (customizable app appearance) "
+          ],
+          "skills": ["React Native", "JavaScript", "Animations "],
+          "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/cleancam/cleancam_app.PNG",
+          "link": "https://sweep.my/"
         }
       ]
     }
   ]
 }
-
-
