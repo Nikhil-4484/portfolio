@@ -156,7 +156,7 @@
           ],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/donotsign.jpg",
           "link": null
-        }
+        },
          {
           "id": 15,
           "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/appicon.png",
@@ -175,7 +175,7 @@
             "Firestore",
             "Cloud Functions",
             "AI Integration",
-            "Gemini AI (Gamani AI)",
+            "Gemini AI (Gamani AI)"
           ],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/donotsign_web.PNG",
           "link": "https://donotsign.com/"
@@ -184,4 +184,5 @@
     }
   ]
 }
+
 
