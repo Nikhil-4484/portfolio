@@ -157,7 +157,31 @@
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/donotsign.jpg",
           "link": null
         }
+         {
+          "id": 15,
+          "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/appicon.png",
+          "project_Name": "DoNotSign – AI-Powered Contract Review Web Platform",
+          "role": "Frontend, Backend & Cloud",
+          "description": [
+            "DoNotSign Web is a modern AI-powered contract review platform built using React.js, Vite, and TypeScript, designed to help users analyze legal documents directly from their browser before signing.",
+            "The website allows users to upload contracts in multiple formats (PDF, images, documents) and leverages advanced AI models to: Detect potential legal risks, Highlight unfavorable clauses, Summarize complex terms into plain, easy-to-understand language, Provide intelligent risk scoring with color-coded indicators and Offer actionable recommendations such as Sign, Negotiate, or Do Not Sign",
+            "Modern frontend architecture with React.js + Vite + TypeScript with Clean and responsive UI/UX design and AI-driven document analysis workflows. Firebase & Firestore integration for real-time data management and Cloud Functions for secure backend processing Performance optimization and scalable architecture"
+          ],
+          "skills": [
+            "React.JS",
+            "TypeScript",
+            "Animations ",
+            "Firebase",
+            "Firestore",
+            "Cloud Functions",
+            "AI Integration",
+            "Gemini AI (Gamani AI)",
+          ],
+          "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/donotsign/donotsign_web.PNG",
+          "link": "https://donotsign.com/"
+        }
       ]
     }
   ]
 }
+
