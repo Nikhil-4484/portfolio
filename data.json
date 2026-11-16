@@ -193,6 +193,33 @@
           "skills": ["React Native", "JavaScript", "Animations "],
           "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/cleancam/cleancam_app.PNG",
           "link": "https://sweep.my/"
+        },
+
+        {
+          "id": 17,
+          "projectIconURL": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/mrkiit/mrkiit_logo.jpg",
+          "project_Name": "Mrkiit – Buy & Sell Marketplace",
+          "role": "Frontend: APP & Web",
+          "description": [
+            "Developed the frontend of Mrkiit, a modern buy-and-sell marketplace available across web and mobile platforms.",
+            "The platform allows users to browse products, create listings, discover nearby deals, and connect with buyers and sellers.",
+            "It's a great platform to list your pre-owned products, connect with potential buyers, and sell with zero selling fees.",
+            "User can also use AI to create attractive product descriptions and make your listing stand out!"
+          ],
+          "skills": [
+            "React.JS",
+            "TypeScript",
+            "Animations ",
+            "Firebase",
+            "Firestore",
+            "Cloud Functions",
+            "biometric app-lock",
+            "websocket",
+            "AI Integration",
+            "Gemini AI (Gamani AI)"
+          ],
+          "image": "https://raw.githubusercontent.com/Nikhil-4484/portfolio/refs/heads/main/assets/mrkiit/mrkiit.jpg",
+          "link": "https://mrkiit.com/"
         }
       ]
     }
